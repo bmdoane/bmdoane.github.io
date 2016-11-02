@@ -1,0 +1,35 @@
+body {
+	background-color: #fff;
+}
+
+.bmdhead {
+	color: white;
+	padding-bottom: 15px;
+	padding-left: 30px;
+}
+
+.contact p {
+	text-align: center;
+}
+
+.summary {
+	margin: 0 auto;
+	text-align: center;
+	width: 500px;
+}
+
+.projects h3, p{
+	text-align: center;
+}
+
+.techLogos{
+  background-color: #fff;
+  padding: 15px 20px 25px;
+  border: 2px solid black;
+  border-radius: 60px;
+}
+
+.techLogos img {
+  margin: 4px 6px 10px;
+  border-radius: 4px;
+}
