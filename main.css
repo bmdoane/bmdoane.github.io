@@ -46,8 +46,9 @@ body {
 .techLogos{
   background-color: #fff;
   padding: 30px 20px 20px;
-  border: 2px solid black;
+  border: .5px solid red;
   border-radius: 60px;
+  margin-bottom: 50px;
 }
 
 .techLogos img {
