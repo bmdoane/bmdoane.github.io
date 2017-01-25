@@ -32,22 +32,32 @@ body {
 	margin: 0 auto;
 	text-align: center;
 	width: 500px;
-	height: 120px;
+	height: 106px;
+}
+
+.summary h3 {
+	margin-top: 30px;
 }
 
 .projects {
-	height: 120px;
+	text-align: center;
+	height: 96px;
 }
 
-.projects h3, p{
-	text-align: center;
+.projects h3 {
+	margin-top: 30px;
+}
+
+.tech-top {
+	margin-top: 10px;
 }
 
 .techLogos{
   background-color: #fff;
-  padding: 15px 20px 25px;
-  border: 2px solid black;
+  padding: 30px 20px 20px;
+  border: .5px solid red;
   border-radius: 60px;
+  margin-bottom: 50px;
 }
 
 .techLogos img {
